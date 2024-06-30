@@ -54,8 +54,8 @@ void open_file() {
         printf("Error reading the file name....\n");
         return;
     }
-    current[strcspn(current, "\n")] = '\0';  // Remove the trailing newline
-
+    current[strcspn(current, "\n")] = '\0'; 
+    
     fp = fopen(current, "r");
     if (fp == NULL) {
         printf("Error opening the file %s....\n", current);
