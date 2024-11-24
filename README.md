@@ -5,6 +5,7 @@ and learn how to apply data structures and algorithms.
 
 ## PROJECT NAMES:
 - ### TextEditor:
-   To understand file handling in C
+   - To understand file handling in C
 - ### Chat Messenger
-   Applying DSA concepts in C
+   - Applying Hashing and LinkedList DSA concepts in C
+   - Sem 3 Orange Problem
