@@ -1,4 +1,10 @@
-# Simple Projects made in C
+# Projects made in C
 
 To understand the fundamentals of this programming language, 
 and learn how to apply data structures and algorithms.
+
+## PROJECT NAMES:
+- ### TextEditor:
+   To understand file handling in C
+- ### Chat Messenger
+   Applying DSA concepts in C
